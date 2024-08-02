@@ -50,7 +50,7 @@ function changeBackground() {
 }
 setInterval(changeBackground, 8000);
 document.getElementById("view").onclick=()=>{
-    if(document.getElementById("view").innerHTML="View All"){
+    if(document.getElementById("view").innerHTML=="View All"){
         fetch("./data.json")
         .then(res=>res.json())
         .then(res=>{
