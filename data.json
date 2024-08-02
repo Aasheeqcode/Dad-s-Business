@@ -1,0 +1,70 @@
+{
+    "Product":[
+            {
+                "id":1,
+                "pname":"Roped Brided Belt",
+                "image":"WhatsApp Image 2024-06-16 at 19.16.47_57236d63.jpg"
+            },
+            {
+                "id":2,
+                "pname":"Dotted Brown Belt",
+                "image":"WhatsApp Image 2024-06-16 at 19.16.47_66a8f5c6.jpg"
+            },
+            {
+                "id":3,
+                "pname":"Formal Belt",
+                "image":"WhatsApp Image 2024-06-16 at 19.16.48_01405fc1.jpg"
+            },
+            {
+                "id":4,
+                "pname":"casual belt",
+                "image":"WhatsApp Image 2024-06-16 at 19.16.48_bc90c426.jpg"
+            },
+            {
+                "id":5,
+                "pname":"Urban belt",
+                "image":" WhatsApp Image 2024-06-16 at 19.16.49_1a163a6d.jpg"
+            },
+            {
+                "id":6,
+                "pname":"Treated Belt",
+                "image":"WhatsApp Image 2024-06-16 at 19.16.49_ba3b0735.jpg"
+            },
+            {
+                "id":7,
+                "pname":"Beveled Edge Belt",
+                "image":"WhatsApp Image 2024-06-16 at 19.16.50_226f63fc.jpg"
+            },
+            {
+                "id":8,
+                "pname":"Smooth Belt",
+                "image":"WhatsApp Image 2024-06-16 at 19.16.48_010db329.jpg"
+            },
+            {
+                "id":9,
+                "pname":"Mild Belt",
+                "image":"WhatsApp Image 2024-06-16 at 19.16.48_31e8f2c9.jpg"
+            },
+            {
+                "id":10,
+                "pname":"Double Stitch Belt",
+                "image":"WhatsApp Image 2024-06-16 at 19.16.49_0e2f0666.jpg"
+            },
+            {
+                "id":11,
+                "pname":"Reveted Belt",
+                "image":"WhatsApp Image 2024-06-16 at 19.16.49_1a03b9b9.jpg"
+            },
+            {
+                "id":12,
+                "pname":"Edge Tanned Belt",
+                "image":"WhatsApp Image 2024-06-16 at 19.16.50_ae0ea592.jpg"
+            },
+            {
+                "id":13,
+                "pname":"Black & Tan Reversible Belt",
+                "image":"WhatsApp Image 2024-06-16 at 19.16.48_01405fc1.jpg"
+            }
+    ]
+}
+          

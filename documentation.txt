@@ -1,0 +1,10 @@
+--accent: 40 73 114;
+    --text-color: 0 0 0;
+    --background: 242 241 239 / 1.0;
+    --background-without-opacity: 242 241 239;
+    --background-gradient: ;
+    --border-color: 206 205 203;
+    --button-background: 40 73 114;
+    --button-text-color: 255 255 255;
+    --circle-button-background: 255 255 255;
+    --circle-button-text-color: 28 28 28;
